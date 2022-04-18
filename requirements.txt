@@ -1,0 +1,13 @@
+gunicorn
+gevent
+flask~=2.0.3
+sqlalchemy~=1.4.34
+werkzeug~=2.0.3
+wtforms~=3.0.1
+alembic~=1.7.7
+flask_sqlalchemy
+wtforms.validators
+flask_mail
+flask_migrate
+email_validator
+pymysql
